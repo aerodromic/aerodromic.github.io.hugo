@@ -1,5 +1,6 @@
 # Hugo site for aerodromic.github.io
 ![deploy](https://github.com/aerodromic/aerodromic.github.io.hugo/actions/workflows/gh-pages.yml/badge.svg)
+
 This repo contains the Hugo project from which [aerodromic.github.io](aerodromic.github.io) is generated.
 This repository links to aerodromic.github.io
 
