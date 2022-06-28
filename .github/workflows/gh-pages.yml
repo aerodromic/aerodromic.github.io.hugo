@@ -32,3 +32,6 @@ jobs:
           external_repository: aerodromic/aerodromic.github.io
           publish_branch: main
           publish_dir: ./public
+          allow_empty_commit: false 
+           
+          commit_message: ${{ github.event.head_commit.message }}   
