@@ -46,7 +46,7 @@ Menus:
 
 params:
   title: "Joel's Website"
-  description: Under Renovation
+  description: Debugging Life
   staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -102,16 +102,18 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "/files/Resume-Joel-Lo.pdf"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-twitter
-          url: https://example.com
+          url: https://github.com/aerodromic
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/joello/
+        - icon: fab fa-instagram
+          url: https://www.instagram.com/jouste_
       customIcons:
         - icon: /fav.png
-          url: "https://example.com"
+          url: "https://tryhackme.com/p/armoredcore"
 
   # About
   about:
@@ -119,7 +121,7 @@ params:
     title: "About Me"
     image: "/images/JoelCam.jpeg"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      I am a Year 1 undergraduate currently pursuing Industrial & Systems Engineering in NUS with intent to major in Computer Science. I have a background in computer science, machine learning and data analysis, and I have a strong interest in cybersecurity. I am currently looking for a summer (2023) internship as a software engineer (Frontend).
 
       I am currently working on a project that will be used to help people find the best way to plan for their modules.
     skills:
@@ -130,8 +132,8 @@ params:
         - "CSS"
         - "JavaScript"
         - "React"
-        - "Node"
-        - "Express"
+        - "Python"
+        - "VBA"
 
   # Experience
   experience:
@@ -209,7 +211,7 @@ params:
         date: "2021 - 2025"
         GPA: "4.58 out of 5.0"
         content: |-
-          I uptake projects outside of my curriculum.
+          I uptake projects outside of my curriculum
           - Independent Software Devlopment Project (orbital)
           - USB rubber ducky with a rick roll payload
 
@@ -219,15 +221,24 @@ params:
         featuredLink:
           enable: true
           name: "My academic record"
-          url: "https://example.com"
+          url: "/files/Transcript-Joel-Lo.pdf"
       - title: "GCE A Levels"
         school:
           name: "Tampines Junior Collge"
-          url: "https://example.org"
+          url: "https://tmjc.moe.edu.sg"
+        date: "2017-2018"
         GPA: "77.5/90"
+        content: |-
+          I studied PCME and organised study sessions as a class chairperson. I am passionate in serving the community.
+          - Organised walk for rice
+          - Lead my class in enaging with the elderly of Tampines
+
+          Extracurricular Activities
+            - Tampines Track & Field (Long/Mid Distance)
+            - OVIA Cambodia
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://www.instagram.com/tpjcovia2017"
 
   # Achievements
   achievements:
@@ -288,7 +299,7 @@ params:
         featured:
           name: Demo V2
           link: https://hugo-profile-2.netlify.app
-        # badges:
+        badges:
         #   - "Hugo"
         #   - "Bootstrap"
         #   - "Javascript"
@@ -306,8 +317,8 @@ params:
   footer:
     # recentPosts: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/aerodromic
+      linkedin: https://linkedin.com/joello
+      twitter: https://twitter.com/mymy131311
+      instagram: https://instagram.com/jouste_
+      facebook: https://www.facebook.com/joel.l.ze.3
