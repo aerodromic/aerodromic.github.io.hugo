@@ -260,7 +260,7 @@ params:
       
       - title: NES Ground Zero 2022
         content: Attained top 20. Incorporate the latest technologies like iot and machine learning to taditional warehouse management systems.
-        url: https://example.com
+        # url: https://example.com
 
   # projects
   projects:
