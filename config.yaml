@@ -96,7 +96,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Joel."
-    subtitle: "I build things for good"
+    subtitle: "I build things for good."
     content: "A passionate ISE student. I build web apps, do data analysis, solve leetcodes and compete in CTFs and hackathons. Optimisation is another strong suite of mine."
     image: /images/JoelBeer.jpg
     button:
