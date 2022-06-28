@@ -244,68 +244,68 @@ params:
   achievements:
     enable: true
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
+      - title: TISC 2021
+        content: I solved 2/10 of TISC 2021 challenge. Hosted by CSIT. Was my first CTF.
+        # url: https://example.com
+
+      - title: Huawei Cloud Spark Hackathon 2022
+        content: Proposed a tourism app which push the discovery of niche locations to tourists.
+
+      - title: AWS x Carro Callenge 2022
+        content: Developed a linear regression model to predict car coe prices.
+        # url: "https://github.com/gurusabarish/hugo-profile"
+
+      - title: Climate Hack 2022 (ASIA)
+        content: Devloped a sustainble mobile app system of gamification for households to use less electricity.
+      
+      - title: NES Ground Zero 2022
+        content: Attained top 20. Incorporate the latest technologies like iot and machine learning to taditional warehouse management systems.
         url: https://example.com
 
   # projects
   projects:
     enable: true
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
+      - title: UniMod+
+        content: A joint summer web app to plan modules and specialisation routes. Outbound to Orbital Apollo 11.
         image: /images/projects/profile.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: http://uni-mod-two.vercel.app/
         # badges:
         #   - "Hugo"
         #   - "Bootstrap"
         #   - "Javascript"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://github.com/
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
+      - title: Vaccination Queue System
+        content: An excel tool coded with VBA to model and predict optimal allocation for village heads.
+        image: /images/projects/profile2.jpg
         featured:
           name: Demo
-          link: https://django-converter.herokuapp.com
+          link: https://github.com/
         # badges:
         #   - "Django"
         #   - "Bootstrap"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+      - title: USB Rubber Ducky
+        content: Uses a rpi pico to send payload as a hid. Payload can be as harmless as a rick roll or as nefarious as keystoke logger.
+        image: /images/projects/profile3.jpg
         featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          name: Demo
+          link: https://github.com/
         badges:
         #   - "Hugo"
         #   - "Bootstrap"
         #   - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/
 
   #Contact
   contact:
@@ -315,7 +315,7 @@ params:
     btnName: Mail me
 
   footer:
-    # recentPosts: false
+    recentPosts: false
     socialNetworks:
       github: https://github.com/aerodromic
       linkedin: https://linkedin.com/joello
