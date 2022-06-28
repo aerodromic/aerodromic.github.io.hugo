@@ -135,7 +135,7 @@ params:
 
   # Experience
   experience:
-    enable: true
+    enable: false
     items:
       - job: "Senior Software Developer"
         company: "Facebook"
@@ -205,26 +205,26 @@ params:
       - title: "Bachelor of Engineering in Industrial and Systems Engineering"
         school: 
           name: "National University of Singapore"
-          url: "https://example.org"
+          url: "https://www.nus.edu.sg/"
         date: "2021 - 2025"
         GPA: "4.58 out of 5.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+          I uptake projects outside of my curriculum.
+          - Independent Software Devlopment Project (orbital)
+          - USB rubber ducky with a rick roll payload
 
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            - Vice President (Internal) of NUS ISE Club
+            - Events photographer for KEVision
         featuredLink:
           enable: true
           name: "My academic record"
           url: "https://example.com"
-      - title: "High School"
+      - title: "GCE A Levels"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
+          name: "Tampines Junior Collge"
           url: "https://example.org"
-        GPA: "4.2 out of 5.0"
+        GPA: "77.5/90"
         featuredLink:
           enable: true
           url: "https://example.com"
