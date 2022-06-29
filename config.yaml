@@ -252,11 +252,11 @@ params:
         content: Proposed a tourism app which push the discovery of niche locations to tourists.
 
       - title: AWS x Carro Callenge 2022
-        content: Developed a linear regression model to predict car coe prices.
+        content: Developed a linear regression model to predict car COE prices.
         # url: "https://github.com/gurusabarish/hugo-profile"
 
       - title: Climate Hack 2022 (ASIA)
-        content: Devloped a sustainble mobile app system of gamification for households to use less electricity.
+        content: Developed a sustainble mobile app system of gamification for households to use less electricity.
       
       - title: NES Ground Zero 2022
         content: Attained top 20. Incorporate the latest technologies like iot and machine learning to taditional warehouse management systems.
