@@ -83,13 +83,13 @@ params:
   #   brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
   #   brandName: "Profile" # Brand name for the brand | default is the title variable
 
-  #   menus:
-  #     disableAbout: true
-  #     disableExperience: true
-  #     disableEducation: true
-  #     disableProjects: true
-  #     disableAchievements: true
-  #     disableContact: true
+  menus:
+    disableAbout: true
+    disableExperience: true
+    disableEducation: true
+    disableProjects: true
+    disableAchievements: true
+    disableContact: true
 
   # Hero
   hero:
@@ -170,7 +170,8 @@ params:
         companyUrl: "https://example.com"
         date: "Jan 2020 - Aug 2020"
         info:
-          enable: false
+          enable: true
+          content: insert placeholder text
         featuredLink:
           enable: true
           url: "https://example.com"
