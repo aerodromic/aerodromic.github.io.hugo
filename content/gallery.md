@@ -1,5 +1,5 @@
 ---
-title: "Nikon Z5 :camera:"
+title: "Nikon Z5"
 date: 2022-06-25T18:35:46+05:30
 draft: false
 description: "TFLEaRN Summer Exchange to Thailand :elephant:"
@@ -12,5 +12,3 @@ images:
  - src: https://drive.google.com/uc?id=1unwGi-_VtRnGvEPf1hCg8a9orZBYYqtu
  - src: https://drive.google.com/uc?id=1UmXZki24gUgc3F3ZRSGCG0XiXYduVMi7
 ---
-
-### Stay Tuned for Photo Updates!
