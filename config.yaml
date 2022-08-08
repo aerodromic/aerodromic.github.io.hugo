@@ -227,7 +227,7 @@ params:
       - title: "GCE A Levels"
         school:
           name: "Tampines Junior College"
-          url: "https://tmjc.moe.edu.sg"
+          url: "https://tmjc.moe.edu.sg/our-heritage/tampines-jc"
         date: "2017-2018"
         GPA: "77.5/90"
         content: |-
