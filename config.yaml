@@ -226,7 +226,7 @@ params:
           url: "/files/Transcript-Joel-Lo.pdf"
       - title: "GCE A Levels"
         school:
-          name: "Tampines Junior Collge"
+          name: "Tampines Junior College"
           url: "https://tmjc.moe.edu.sg"
         date: "2017-2018"
         GPA: "77.5/90"
@@ -252,10 +252,11 @@ params:
 
       - title: Huawei Cloud Spark Hackathon 2022
         content: Proposed a tourism app which push the discovery of niche locations to tourists.
+        # url: https://example.com
 
       - title: AWS x Carro Callenge 2022
         content: Developed a linear regression model to predict car COE prices.
-        # url: "https://github.com/gurusabarish/hugo-profile"
+        # url: https://example.com
 
       - title: Climate Hack 2022 (ASIA)
         content: Developed a sustainble mobile app system of gamification for households to use less electricity.
@@ -266,6 +267,7 @@ params:
 
       - title: NTUC FutureX Hackathon 2022 (ASIA)
         content: Finalist (Top 8). Proposed use of TON network and Telegram to mint smart insurance contracts as NFTs.
+        # url: https://example.com
 
   # projects
   projects:
@@ -304,7 +306,7 @@ params:
         featured:
           name: Demo
           link: https://github.com/
-        badges:
+        # badges:
         #   - "Hugo"
         #   - "Bootstrap"
         #   - "Javascript"
