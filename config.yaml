@@ -133,6 +133,8 @@ params:
         - "JavaScript"
         - "React"
         - "Python"
+        - "Java"
+        - "Go"
         - "VBA"
 
   # Experience
