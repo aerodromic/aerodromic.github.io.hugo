@@ -102,7 +102,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/files/Resume-Joel-Lo.pdf"
+      url: "/files/Resume_Joel_Lo_CAA12082022.pdf"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
