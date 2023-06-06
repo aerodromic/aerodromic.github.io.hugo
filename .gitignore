@@ -1,11 +1,16 @@
 # Created by https://www.toptal.com/developers/gitignore/api/hugo
 # Edit at https://www.toptal.com/developers/gitignore?templates=hugo
+/config.yaml
+/content
+/static/images
+.vscode
 
 ### Hugo ###
 # Generated files by hugo
 /public/
 /resources/_gen/
-.hugo_build.lock
+/assets/jsconfig.json
+hugo_stats.json
 
 # Executable may be added to repository
 hugo.exe
@@ -15,3 +20,5 @@ hugo.linux
 # End of https://www.toptal.com/developers/gitignore/api/hugo
 
 .DS_Store
+# Temporary lock file while building
+.hugo_build.lock
