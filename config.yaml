@@ -102,7 +102,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/files/Resume_Joel_Lo_CAA12082022.pdf"
+      url: "/files/Resume_Joel_Lo_CAA05062023.pdf"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
@@ -121,9 +121,9 @@ params:
     title: "About Me"
     image: "/images/JoelCam.jpeg"
     content: |-
-      I am a Year 2 undergraduate currently pursuing Industrial & Systems Engineering in NUS with intent to major in Computer Science. I have a background in computer science, machine learning and data analysis, and I have a strong interest in cybersecurity. I am currently looking for a summer (2023) internship as a software engineer (Frontend).
+      I am a Year 3 undergraduate currently pursuing Industrial & Systems Engineering in NUS with intent to major in Data Analytics and Minor in Computer Science. I have a background in computer science, machine learning and data analysis, and I do CTFs and hacks for fun. I am currently looking for a summer (2024) internship (looking to convert to full-time).
 
-      I am currently working on a project that will be used to help people find the best way to plan for their modules.
+      I am currently in Hanoi.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -248,28 +248,17 @@ params:
   achievements:
     enable: true
     items:
-      - title: TISC 2021
-        content: I solved 2/10 of TISC 2021 challenge. Hosted by CSIT. Was my first CTF.
+      - title: NES Ground Zero 2023
+        content: Attained top 5
         # url: https://example.com
 
-      - title: Huawei Cloud Spark Hackathon 2022
-        content: Proposed a tourism app which push the discovery of niche locations to tourists.
-        # url: https://example.com
-
-      - title: AWS x Carro Callenge 2022
-        content: Developed a linear regression model to predict car COE prices.
-        # url: https://example.com
-
-      - title: Climate Hack 2022 (ASIA)
-        content: Developed a sustainble mobile app system of gamification for households to use less electricity.
-      
-      - title: NES Ground Zero 2022
-        content: Attained top 20. Incorporate the latest technologies like iot and machine learning to traditional warehouse management systems.
+      - title: WorldQuant IQC 2023
+        content: Goal Medal (Individual), Round 2 (Top 20% Global)
         # url: https://example.com
 
       - title: NTUC FutureX Hackathon 2022 (ASIA)
-        content: Finalist (Top 8). Proposed use of TON network and Telegram to mint smart insurance contracts as NFTs.
-        # url: https://example.com
+        content: Best Bsuiness Use Case
+        url: https://hive.income.com.sg/FutureXHackathon2022
 
   # projects
   projects:
