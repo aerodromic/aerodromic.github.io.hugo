@@ -149,7 +149,7 @@ params:
           enable: true
           name: "Connect with me"
           url: "https://www.linkedin.com/in/joello/"
-        content: "I am currently working as a summer associate analyst at [Viettonkin Consulting](https://www.viettonkinconsulting.com/) in Hanoi, Vietnam. I am currently working FDI-Related Incorporation Projects in ASEAN."
+        content: "I am currently working as a summer associate analyst at [Viettonkin Consulting](https://www.viettonkinconsulting.com/) in Hanoi, Vietnam. I am currently working on FDI-Focus Incorporation Projects in ASEAN."
 
       - job: "Student Research Assistant"
         company: "National University of Singapore"
