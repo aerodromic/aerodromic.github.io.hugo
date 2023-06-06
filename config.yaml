@@ -98,7 +98,7 @@ params:
     title: "Joel."
     subtitle: "I build things for good."
     content: "A passionate ISE student. I build web apps, do data analysis, solve leetcodes and compete in CTFs and hackathons. Optimisation is another strong suite of mine."
-    image: /images/JoelBeer.jpg
+    image: /images/JoelBoat.jpg
     button:
       enable: true
       name: "Resume"
@@ -201,6 +201,7 @@ params:
             - OVIA Cambodia
         featuredLink:
           enable: true
+          name: OVIA Instagram
           url: "https://www.instagram.com/tpjcovia2017"
 
   # Achievements
@@ -212,16 +213,16 @@ params:
         # url: https://example.com
 
       - title: WorldQuant IQC 2023
-        content: Goal Medal (Individual), Round 2 (Top 20% Global)
+        content: Top 20% Global
         # url: https://example.com
 
       - title: NTUC FutureX Hackathon 2022 (ASIA)
-        content: Best Bsuiness Use Case
+        content: Best Business Use Case
         url: https://hive.income.com.sg/FutureXHackathon2022
 
   # projects
   projects:
-    enable: true
+    enable: false
     items:
       - title: UniMod+
         content: A joint summer web app to plan modules and specialisation routes. Outbound to Orbital Apollo 11.
