@@ -1,6 +1,6 @@
 baseURL: "https://aerodromic.github.io/"
 languageCode: "en-us"
-title: "Joel's Website"
+title: "Joel Lo"
 theme: hugo-profile
 
 Paginate: 3
