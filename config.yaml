@@ -1,6 +1,6 @@
 baseURL: "https://aerodromic.github.io/"
 languageCode: "en-us"
-title: "Joel Lo"
+title: "Joel's Website"
 theme: hugo-profile
 
 Paginate: 3
@@ -45,7 +45,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Joel's Website"
+  title: "Joel Lo"
   description: Debugging Life
   staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
