@@ -20,7 +20,7 @@ googleAnalytics: G-5C6NP3B0XN
 markup:
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: false
 
 Menus:
   main:
@@ -121,7 +121,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Joel."
-    subtitle: "God does not play dice."
+    subtitle: "Live. Laugh. Love."
     content: "A passionate ISE student. I build financial models, do data analytics, solve leetcodes and compete in CTFs and hackathons. Optimisation is another strong suite of mine."
     image: /images/joelTrain.jpg
     bottomImage:
@@ -179,7 +179,7 @@ params:
           enable: true
           name: "Connect with me"
           url: "https://www.linkedin.com/in/joello/"
-        content: "I am currently working as a summer associate analyst at [Viettonkin Consulting](https://www.viettonkinconsulting.com/) in Hanoi, Vietnam. I am currently working on FDI-Focus Incorporation Projects in ASEAN."
+        content: "I am currently working as a summer associate analyst at [Viettonkin Consulting](https://www.viettonkinconsulting.com/) in Hanoi, Vietnam. I am currently working on FDI-Focus Incorporation Projects in ASEAN. JD includes business development and digital transformation."
 
       - job: "Student Research Assistant"
         company: "National University of Singapore"
@@ -215,24 +215,24 @@ params:
           enable: true
           name: "My academic record"
           url: "/files/Transcript-Joel-Lo.pdf"
-      - title: "GCE A Levels"
-        school:
-          name: "Tampines Junior College"
-          url: "https://tmjc.moe.edu.sg/our-heritage/tampines-jc"
-        date: "2017-2018"
-        GPA: "77.5/90"
-        content: |-
-          I studied PCME and organised study sessions as a class chairperson. I am passionate in serving the community.
-          - Organised walk for rice
-          - Lead my class in enaging with the elderly of Tampines
+      # - title: "GCE A Levels"
+      #   school:
+      #     name: "Tampines Junior College"
+      #     url: "https://tmjc.moe.edu.sg/our-heritage/tampines-jc"
+      #   date: "2017-2018"
+      #   GPA: "77.5/90"
+      #   content: |-
+      #     I studied PCME and organised study sessions as a class chairperson. I am passionate in serving the community.
+      #     - Organised walk for rice
+      #     - Lead my class in enaging with the elderly of Tampines
 
-          Extracurricular Activities
-            - Tampines Track & Field (Long/Mid Distance)
-            - OVIA Cambodia
-        featuredLink:
-          enable: true
-          name: OVIA Instagram
-          url: "https://www.instagram.com/tpjcovia2017"
+      #     Extracurricular Activities
+      #       - Tampines Track & Field (Long/Mid Distance)
+      #       - OVIA Cambodia
+      #   featuredLink:
+      #     enable: true
+      #     name: OVIA Instagram
+      #     url: "https://www.instagram.com/tpjcovia2017"
 
   # Achievements
   achievements:
