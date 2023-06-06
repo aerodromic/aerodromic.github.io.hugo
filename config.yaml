@@ -141,15 +141,25 @@ params:
   experience:
     enable: true
     items:
-      - job: "Summer Assocciate Analyst"
+      - job: "Summer Associate Analyst"
         company: "Viettonkin Consulting"
         companyUrl: "https://www.viettonkinconsulting.com/"
-        date: "May 2022 - present"
+        date: "May 2023 - present"
         featuredLink:
           enable: true
           name: "Connect with me"
           url: "https://www.linkedin.com/in/joello/"
-        content: "I am currently working as a software developer at [Viettonkin Consulting](https://www.viettonkinconsulting.com/) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: "I am currently working as a summer associate analyst at [Viettonkin Consulting](https://www.viettonkinconsulting.com/) in Hanoi, Vietnam. I am currently working FDI-Related Incorporation Projects in ASEAN."
+
+      - job: "Student Research Assistant"
+        company: "NUS"
+        companyUrl: "https://cde.nus.edu.sg/undergraduate/build-your-own-degree/enhancement-modules/undergraduate-research-opportunities-programme-eg2605-urop/"
+        date: "Jan 2023 - Apr 2023"
+        featuredLink:
+          enable: true
+          name: "Read the Paper"
+          url: "/files/uropReportJoel.pdf"
+        content: "I conducted research at [NUS](https://cde.nus.edu.sg/undergraduate/build-your-own-degree/enhancement-modules/undergraduate-research-opportunities-programme-eg2605-urop/) to develop and implement transformer-based computer vision models, like DETR and Deformable DETR, to detect housekeeping issues on construction sites, under the supervision of Dr Goh Yang Miang."
 
   # Education
   education:
