@@ -139,7 +139,7 @@ params:
 
   # Experience
   experience:
-    enable: false
+    enable: true
     items:
       - job: "Senior Software Developer"
         company: "Facebook"
