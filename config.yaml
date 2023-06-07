@@ -213,7 +213,7 @@ params:
             - Events photographer for KEVision
         featuredLink:
           enable: true
-          name: "My academic record"
+          name: "My Transcript"
           url: "/files/Transcript-Joel-Lo_CAA05062023.pdf"
       # - title: "GCE A Levels"
       #   school:
