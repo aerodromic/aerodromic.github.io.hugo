@@ -181,8 +181,18 @@ params:
           url: "https://www.linkedin.com/in/joello/"
         content: "I am currently working as a summer associate analyst at [Viettonkin Consulting](https://www.viettonkinconsulting.com/) in Hanoi, Vietnam. I am currently working on FDI-Focus Incorporation Projects in ASEAN. JD includes business development and digital transformation."
 
+      - job: "Quantitative Research Consultant"
+        company: "WorldQuant"
+        companyUrl: "https://www.worldquant.com/"
+        date: "April 2023 - present"
+        featuredLink:
+          enable: true
+          name: "Connect with me"
+          url: "https://www.linkedin.com/in/joello/"
+        content: "I am currently working part-time as a quant research consultant at [WorldQuant](https://www.worldquant.com/) in Singapore, Singapore. I am currently working on quantiative research and is currently exploring alphas in China."
+
       - job: "Student Research Assistant"
-        company: "National University of Singapore"
+        company: "NUS"
         companyUrl: "https://cde.nus.edu.sg/undergraduate/build-your-own-degree/enhancement-modules/undergraduate-research-opportunities-programme-eg2605-urop/"
         date: "Jan 2023 - Apr 2023"
         featuredLink:
@@ -203,14 +213,21 @@ params:
         date: "2021 - 2025"
         GPA: "4.23 out of 5.0"
         content: |-
-          I uptake projects outside of my curriculum
+          Overseas Programmes
+          - Student Exchange Programme - The University of Hong Kong [Upcoming]
+          - NUS Overseas College Vietnam - Hanoi Pioneer Batch [Current]
+          - Centre for Future Ready Graduates Industrial Insights - Thailand
+          - Temasek Foundation - NUS Leadership Enrichment and Regional Networking Programme - Mahidol University
+
+          Notable Accomplishments
+          - Teaching Assistant - IE1111R [Upcoming]
+          - Undergraduate Research Opportunity Programme (UROP) [Current]
           - Independent Software Development Project (Orbital 22 - Apollo 11)
-          - Personal Website made with HUGO
-          - USB rubber ducky with a rick roll payload
+          - Student Assistant for Online Teaching Tool
 
           Extracurricular Activities
-            - Vice President (Internal) of NUS ISE Club
-            - Events photographer for KEVision
+            - Vice-President of NUS ISE Club
+            - Invited speaker for CDE Open House 2022
         featuredLink:
           enable: true
           name: "My Transcript"
