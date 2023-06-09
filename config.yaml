@@ -119,7 +119,7 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
+    intro: "Hello, my name is"
     title: "Joel."
     subtitle: "Live. Laugh. Love."
     content: "A passionate ISE student. I build financial models, do data analytics, solve leetcodes and compete in CTFs and hackathons. Optimisation is another strong suite of mine."
@@ -217,16 +217,16 @@ params:
           - Student Exchange Programme - The University of Hong Kong [Upcoming]
           - NUS Overseas College Vietnam - Hanoi Pioneer Batch [Current]
           - Centre for Future Ready Graduates Industrial Insights - Thailand
-          - Temasek Foundation - NUS Leadership Enrichment and Regional Networking Programme - Mahidol University
+          - Temasek Foundation - NUS Leadership Enrichment and Regional Networking Programme - Mahidol University, Thailand
 
           Notable Accomplishments
           - Teaching Assistant - IE1111R [Upcoming]
-          - Undergraduate Research Opportunity Programme (UROP) [Current]
+          - Undergraduate Research Opportunity Programme (UROP)
           - Independent Software Development Project (Orbital 22 - Apollo 11)
           - Student Assistant for Online Teaching Tool
 
           Extracurricular Activities
-            - Vice-President of NUS ISE Club
+            - Vice-President of NUS ISE Club [Current]
             - Invited speaker for CDE Open House 2022
         featuredLink:
           enable: true
