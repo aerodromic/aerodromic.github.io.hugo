@@ -189,7 +189,7 @@ params:
           enable: true
           name: "Connect with me"
           url: "https://www.linkedin.com/in/joello/"
-        content: "I am currently working part-time as a quant research consultant at [WorldQuant](https://www.worldquant.com/) in Singapore, Singapore. I am currently working on quantiative research and is currently exploring alphas in China."
+        content: "I am currently working part-time as a quant research consultant at [WorldQuant](https://www.worldquant.com/) in Singapore, Singapore. I am currently working on quantiative research and I am currently exploring alphas in China."
 
       - job: "Student Research Assistant"
         company: "NUS"
