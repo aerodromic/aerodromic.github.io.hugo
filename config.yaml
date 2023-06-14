@@ -57,7 +57,7 @@ Menus:
 params:
   title: "Joel's Website"
   description: Debugging Life
-  images: "/images/JoelBoat.jpg"
+  images: /fav.png
   staticPath: ""  # The path to serve the static files from
   favicon: /fav.png
 
@@ -75,8 +75,8 @@ params:
   animate: true
 
   theme:
-    # disableThemeToggle: false
-    # defaultTheme: "light" # dark
+     disableThemeToggle: false
+     defaultTheme: "light" # dark
 
   # font:
   #   fontSize: 1.5rem # default: 1rem
@@ -108,13 +108,13 @@ params:
     # showBrandLogo: false # Show brand logo in nav bar | default is true
     # brandName: "Hugo Profile" # Brand name for the brand | default is the title variable
     disableSearch: true
-    searchPlaceholder: "Search Blog Articles..."
+    searchPlaceholder: "Search..."
     menus:
-      disableAbout: false
-      disableExperience: false
-      disableEducation: false
-      disableProjects: false
-      disableAchievements: false
+      disableAbout: true
+      disableExperience: true
+      disableEducation: true
+      disableProjects: true
+      disableAchievements: true
       disableContact: false
 
   # Hero
@@ -123,11 +123,11 @@ params:
     intro: "Hello, my name is"
     title: "Joel."
     subtitle: "Live. Laugh. Love."
-    content: "A passionate ISE student. I build financial models, do data analytics, solve leetcodes and compete in CTFs and hackathons. Optimisation is another strong suite of mine."
-    image: /images/joelTrain.jpg
+    content: "[A passionate ISE student.](https://www.linkedin.com/in/joello/) I build financial models, do data analytics, solve leetcodes and compete in CTFs and hackathons. Optimisation is another strong suite of mine."
+    image: /images/JoelTrain.jpg
     bottomImage:
       enable: true
-    # roundImage: true # Make hero image circular | default false
+      roundImage: false # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
@@ -171,6 +171,7 @@ params:
   # Experience
   experience:
     enable: true
+    title: Experience
     items:
       - job: "Summer Associate Analyst"
         company: "Viettonkin Consulting"
@@ -205,6 +206,7 @@ params:
   # Education
   education:
     enable: true
+    title: Education
     # index: true
     items:
       - title: "Bachelor of Engineering in Industrial and Systems Engineering"
@@ -255,6 +257,7 @@ params:
   # Achievements
   achievements:
     enable: true
+    title: Achievements
     items:
       - title: WorldQuant IQC 2023
         content: Top 20% Global
@@ -271,6 +274,7 @@ params:
   # projects
   projects:
     enable: false
+    title: Projects
     items:
       - title: UniMod+
         content: A joint summer web app to plan modules and specialisation routes. Outbound to Orbital Apollo 11.
@@ -316,13 +320,14 @@ params:
   #Contact
   contact:
     enable: true
+    title: Contact
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     email: joelloliangze@gmail.com
     btnName: Mail me
 
   footer:
     recentPosts:
-      path: "blogs"
+      path: "Blogs"
       count: 3
       title: Recent Posts
       enable: false
