@@ -57,7 +57,7 @@ Menus:
 params:
   title: "Joel's Website"
   description: Debugging Life
-  images: /fav.png
+  images: /static/images/JoelBoat.jpg
   staticPath: ""  # The path to serve the static files from
   favicon: /fav.png
 
@@ -110,11 +110,11 @@ params:
     disableSearch: true
     searchPlaceholder: "Search..."
     menus:
-      disableAbout: true
-      disableExperience: true
-      disableEducation: true
-      disableProjects: true
-      disableAchievements: true
+      disableAbout: false
+      disableExperience: false
+      disableEducation: false
+      disableProjects: false
+      disableAchievements: false
       disableContact: false
 
   # Hero
