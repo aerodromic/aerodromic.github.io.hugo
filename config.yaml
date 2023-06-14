@@ -58,7 +58,9 @@ params:
   title: "Joel's Website"
   description: Debugging Life
   images:
-  - /static/images/JoelBoat.jpg
+  - /images/JoelBoat.jpg
+  taxonomies:
+    series: series
   staticPath: ""  # The path to serve the static files from
   favicon: /fav.png
 
