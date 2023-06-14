@@ -57,7 +57,7 @@ Menus:
 params:
   title: "Joel's Website"
   description: Debugging Life
-  images: /images/JoelBoat.jpg
+  images: "/images/JoelBoat.jpg"
   staticPath: ""  # The path to serve the static files from
   favicon: /fav.png
 
