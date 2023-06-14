@@ -13,9 +13,12 @@ outputs:
     - "RSS"
 
 Paginate: 3
-enableRobotsTXT: true
+enableRobotsTXT: false
 # disqusShortname: gurusabarish
 googleAnalytics: G-5C6NP3B0XN
+
+social:
+  twitter: mymy131311
 
 markup:
   goldmark:
@@ -56,7 +59,7 @@ Menus:
 
 params:
   title: "Joel's Website"
-  description: Debugging Life
+  description: Learn about working with me. Join his network today for free.
   images:
   - /images/JoelBoat.jpg
   taxonomies:
