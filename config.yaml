@@ -59,7 +59,7 @@ Menus:
 
 params:
   title: "Joel's Website"
-  description: "Discover the diverse world of an aspiring Industrial & Systems Engineering student passionate about Data Analytics and Computer Science. Explore my personal website, showcasing captivating blog posts, captivating photos, and impressive academic records. With a background in business development, machine learning, and data analysis, I combine my expertise to create insightful content. Join me as I navigate the exciting world of CTFs and hacks for fun. Currently in Hanoi as part of the pioneering NUS NOC Hanoi batch, I am eagerly seeking a summer (2024) internship. Get inspired and connect with me on my journey."
+  description: "Join me on a captivating journey of Industrial & Systems Engineering, Data Analytics, and Computer Science. Explore my blog, photos, and academic records. Seeking a summer (2024) internship. Currently in Hanoi as part of NOC."
   images:
   - /images/JoelBoat.jpg
   taxonomies:
