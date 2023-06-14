@@ -61,7 +61,7 @@ params:
   title: "Joel's Website"
   description: "Join me on a captivating journey of Industrial & Systems Engineering, Data Analytics, and Computer Science. Explore my blog, photos, and academic records. Seeking a summer (2024) internship. Currently in Hanoi as part of NOC."
   images:
-  - /static/images/JoelBoat.jpg
+  - /images/JoelBoat.jpg
   taxonomies:
     series: series
   staticPath: ""  # The path to serve the static files from
