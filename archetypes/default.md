@@ -2,9 +2,10 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-author:
+author: "Joel Lo"
 tags:
-image:
+  - article
+image: /images/post.jpg
 description:
 toc:
 ---
