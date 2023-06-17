@@ -31,6 +31,10 @@ markup:
     renderer:
       unsafe: false
 
+sitemap:
+  changefreq: weekly
+  priority: 0.5
+
 Menus:
   main:
     - identifier: blog
