@@ -1,6 +1,6 @@
 <div class="container py-3" id="recent-posts">
     {{ if .Site.Params.footer.recentPosts.enable | default false }}
-    {{ $recentPostsPath := .Site.Params.footer.recentPosts.path | default "blogs" }}
+    {{ $recentPostsPath := .Site.Params.footer.recentPosts.path | default "blog" }}
     {{ $recentPostsCount := .Site.Params.footer.recentPosts.count | default 3 }}
     {{ $recentPosts := where .Site.RegularPages "Section" $recentPostsPath | first $recentPostsCount }}
     <div class="h3 text-center text-secondary py-3">

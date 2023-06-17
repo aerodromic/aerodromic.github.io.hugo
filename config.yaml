@@ -35,13 +35,13 @@ Menus:
   main:
     - identifier: blog
       name: Blog
-      title: Blog posts
-      url: /blogs
+      title: Blog Posts 📝
+      url: /blog
       weight: 1
     
     - identifier: gallery
       name: Gallery
-      title: Blog posts
+      title: My Photos 📷
       url: /gallery
       weight: 2
 
@@ -132,7 +132,7 @@ params:
     enable: true
     intro: "Hello, my name is"
     title: "Joel."
-    subtitle: "Live. Laugh. Love."
+    subtitle: "Veni. Vidi. Vici."
     content: "[A passionate ISE student.](https://www.linkedin.com/in/joello/) I build financial models, do data analytics, solve leetcodes and compete in CTFs and hackathons. Optimisation is another strong suite of mine."
     image: /images/JoelTrain.jpg
     bottomImage:
@@ -337,7 +337,7 @@ params:
 
   footer:
     recentPosts:
-      path: "Blogs"
+      path: "Blog"
       count: 3
       title: Recent Posts
       enable: false
@@ -349,7 +349,7 @@ params:
       instagram: https://instagram.com/jouste_
       facebook: https://www.facebook.com/joel.l.ze.3
   
-  # List pages like blogs and posts
+  # List pages like blog and posts
   listPages:
     disableFeaturedImage: false
 
