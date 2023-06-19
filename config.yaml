@@ -29,7 +29,7 @@ social:
 markup:
   goldmark:
     renderer:
-      unsafe: false
+      unsafe: true
 
 sitemap:
   changefreq: weekly
@@ -90,7 +90,7 @@ params:
 
   theme:
      disableThemeToggle: false
-     defaultTheme: "true" # dark
+     defaultTheme: "light" # dark
 
   # font:
   #   fontSize: 1.5rem # default: 1rem
@@ -98,22 +98,21 @@ params:
   #   lineHeight: 1 # default: 1.5
   #   textAlign: right # default: left
 
-  # color preference
-  # color:
-  #   textColor:
-  #   secondaryTextColor:
-  #   backgroundColor:
-  #   secondaryBackgroundColor:
-  #   primaryColor:
-  #   secondaryColor:
+  color:
+    textColor: "#343a40"
+    secondaryTextColor: "#6c757d"
+    backgroundColor: "#eaedf0"
+    secondaryBackgroundColor: "#f8f9fa"
+    primaryColor: "#007BFF"
+    secondaryColor: "#f8f9fa"
 
-  #   darkmode:
-  #     textColor:
-  #     secondaryTextColor:
-  #     backgroundColor:
-  #     secondaryBackgroundColor:
-  #     primaryColor:
-  #     secondaryColor:
+    darkmode:
+      textColor: "#e4e6eb"
+      secondaryTextColor: "#b0b3b8"
+      backgroundColor: "#18191a"
+      secondaryBackgroundColor: "#212529"
+      primaryColor: "#ffda1a"
+      secondaryColor: "#212529"
 
   # If you want to customize the menu bar, you can change it here
   navbar:
@@ -156,9 +155,6 @@ params:
           url: https://www.linkedin.com/in/joello/
         - icon: fab fa-instagram
           url: https://www.instagram.com/jouste_
-      customIcons:
-        - icon: /fav.png
-          url: "https://tryhackme.com/p/armoredcore"
 
   # About
   about:
