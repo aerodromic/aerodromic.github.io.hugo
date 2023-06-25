@@ -32,3 +32,4 @@ jobs:
           external_repository: aerodromic/aerodromic.github.io
           publish_branch: main
           publish_dir: ./public
+          CNAME: joelloliangze.com

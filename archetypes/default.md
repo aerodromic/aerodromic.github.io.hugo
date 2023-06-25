@@ -4,7 +4,7 @@ date: {{ .Date }}
 draft: true
 author: "Joel Lo"
 tags:
-  - article
+  - Article
 image: /images/post.jpg
 description:
 toc:

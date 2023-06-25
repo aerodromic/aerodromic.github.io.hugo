@@ -4,7 +4,8 @@ date: 2023-06-17T22:25:22+07:00
 draft: false
 author: "Joel Lo"
 tags:
-  - article
+  - Article
+  - Hanoi
 image: /images/JoelBoat.jpg
 description:
 toc:
