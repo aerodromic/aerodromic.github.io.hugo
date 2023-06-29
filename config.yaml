@@ -143,7 +143,7 @@ params:
       roundImage: false # Make hero image circular | default false
     button:
       enable: true
-      name: "Resume"
+      name: "Résumé"
       url: "/files/Resume_Joel_Lo_CAA05062023.pdf"
       download: true
       newPage: false
