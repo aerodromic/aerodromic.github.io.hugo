@@ -183,7 +183,7 @@ params:
     enable: true
     title: Experience
     items:
-      - job: "Summer Associate Analyst"
+      - job: "Summer Analyst"
         company: "Viettonkin Consulting"
         companyUrl: "https://www.viettonkinconsulting.com/"
         date: "May 2023 - present"
@@ -191,7 +191,7 @@ params:
           enable: true
           name: "Connect with me"
           url: "https://www.linkedin.com/in/joello/"
-        content: "I am currently working as a summer associate analyst at [Viettonkin Consulting](https://www.viettonkinconsulting.com/) in Hanoi, Vietnam. I am currently working on FDI-focused Incorporation Projects in ASEAN. JD includes business development and digital transformation."
+        content: "I am currently working as a summer analyst at [Viettonkin Consulting](https://www.viettonkinconsulting.com/) in Hanoi, Vietnam. I am currently working on FDI-focused Incorporation Projects in ASEAN. JD includes business development and digital transformation."
 
       - job: "Quantitative Research Consultant"
         company: "WorldQuant"
