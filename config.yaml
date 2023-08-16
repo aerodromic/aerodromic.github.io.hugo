@@ -164,7 +164,7 @@ params:
     content: |-
       I am a Year 3 undergraduate currently pursuing Industrial & Systems Engineering in NUS with intent to major in Data Analytics and Minor in Computer Science. I have a background in business development, machine learning and data analysis, and I do CTFs and hacks for fun.
 
-      I am currently looking for a summer (2024) internship.
+      [I am currently looking for a summer (2024) internship.](https://www.linkedin.com/in/joello/)
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
