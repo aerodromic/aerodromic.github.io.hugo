@@ -162,9 +162,9 @@ params:
     title: "About Me"
     image: "/images/JoelCam.jpg"
     content: |-
-      I am a Year 3 undergraduate currently pursuing Industrial & Systems Engineering in NUS with intent to major in Data Analytics and Minor in Computer Science. I have a background in business development, machine learning and data analysis, and I do CTFs and hacks for fun. I am currently looking for a summer (2024) internship.
+      I am a Year 3 undergraduate currently pursuing Industrial & Systems Engineering in NUS with intent to major in Data Analytics and Minor in Computer Science. I have a background in business development, machine learning and data analysis, and I do CTFs and hacks for fun.
 
-      I am currently in Hanoi as the pioneer batch for NUS NOC Hanoi.
+      I am currently looking for a summer (2024) internship.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -173,6 +173,8 @@ params:
         - "CSS"
         - "JavaScript"
         - "React"
+        - "Hugo"
+        - "R"
         - "Python"
         - "Java"
         - "Go"
@@ -186,7 +188,7 @@ params:
       - job: "Summer Analyst"
         company: "Viettonkin Consulting"
         companyUrl: "https://www.viettonkinconsulting.com/"
-        date: "May 2023 - present"
+        date: "May 2023 - Aug 2023"
         featuredLink:
           enable: true
           name: "Connect with me"
@@ -228,18 +230,18 @@ params:
         content: |-
           Overseas Programmes
           - Student Exchange Programme - The University of Hong Kong [Upcoming]
-          - NUS Overseas College Vietnam - Hanoi Pioneer Batch [Current]
+          - NUS Overseas College Vietnam - Hanoi Pioneer Batch
           - Centre for Future Ready Graduates Industrial Insights - Thailand
           - Temasek Foundation - NUS Leadership Enrichment and Regional Networking Programme - Mahidol University, Thailand
 
           Notable Accomplishments
-          - Teaching Assistant - IE1111R [Upcoming]
+          - Teaching Assistant - IE1111R [Current]
           - Undergraduate Research Opportunity Programme (UROP)
           - Independent Software Development Project (Orbital 22 - Apollo 11)
           - Student Assistant for Online Teaching Tool
 
           Extracurricular Activities
-            - Vice-President of NUS ISE Club [Current]
+            - Vice-President of NUS ISE Club (21st Management Committee)
             - Invited speaker for CDE Open House 2022
         featuredLink:
           enable: true
