@@ -144,7 +144,7 @@ params:
     button:
       enable: true
       name: "Résumé"
-      url: "/files/Resume_Joel_Lo_CAA05062023.pdf"
+      url: "/files/Resume_Joel_Lo_CAA12092023.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -246,7 +246,7 @@ params:
         featuredLink:
           enable: true
           name: "My Transcript"
-          url: "/files/Transcript-Joel-Lo_CAA05062023.pdf"
+          url: "/files/N_SR_TSRPT.pdf"
       # - title: "GCE A Levels"
       #   school:
       #     name: "Tampines Junior College"
