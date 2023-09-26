@@ -135,7 +135,7 @@ params:
     enable: true
     intro: "Hello, my name is"
     title: "Joel."
-    subtitle: "Veni. Vidi. Vici."
+    subtitle: "Be the Change."
     content: "[A passionate ISE student.](https://www.linkedin.com/in/joello/) I build financial models, do data analytics, solve leetcodes and compete in CTFs and hackathons. Optimisation is another strong suite of mine."
     image: /images/JoelTrain.jpg
     bottomImage:
@@ -144,7 +144,7 @@ params:
     button:
       enable: true
       name: "Résumé"
-      url: "/files/Resume_Joel_Lo_CAA22092023.pdf"
+      url: "/files/Resume_Joel_Lo_CAA26092023.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -162,7 +162,7 @@ params:
     title: "About Me"
     image: "/images/JoelCam.jpg"
     content: |-
-      I am a Year 3 undergraduate currently pursuing Industrial & Systems Engineering in NUS with intent to major in Data Analytics and Minor in Computer Science. I have a background in business development, machine learning and data analysis, and I do CTFs and hacks for fun.
+      I am a Year 3 undergraduate currently pursuing Industrial & Systems Engineering in NUS with intent to second major in Data Analytics and Minor in Computer Science. I have a background in business development, machine learning and data analysis, and I do CTFs and hacks for fun.
 
       [I am currently looking for a summer (2024) internship.](https://www.linkedin.com/in/joello/)
     skills:
@@ -193,7 +193,7 @@ params:
           enable: true
           name: "Connect with me"
           url: "https://www.linkedin.com/in/joello/"
-        content: "I am currently working as a summer analyst at [Viettonkin Consulting](https://www.viettonkinconsulting.com/) in Hanoi, Vietnam. I am currently working on FDI-focused Incorporation Projects in ASEAN. JD includes business development and digital transformation."
+        content: "I worked as a summer analyst at [Viettonkin Consulting](https://www.viettonkinconsulting.com/) in Hanoi, Vietnam. I am currently working on FDI-focused Incorporation Projects in ASEAN. JD includes business development and digital transformation."
 
       - job: "Quantitative Research Consultant"
         company: "WorldQuant"
