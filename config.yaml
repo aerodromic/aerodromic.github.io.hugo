@@ -144,7 +144,7 @@ params:
     button:
       enable: true
       name: "Résumé"
-      url: "/files/Resume_Joel_Lo_CAA26092023.pdf"
+      url: "/files/Resume_Joel_Lo_CAA27092023.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -221,12 +221,12 @@ params:
     title: Education
     # index: true
     items:
-      - title: "Bachelor of Engineering in Industrial and Systems Engineering"
+      - title: "Bachelor of Engineering in Industrial and Systems Engineering (Honours)"
         school: 
           name: "National University of Singapore"
           url: "https://www.nus.edu.sg/"
         date: "2021 - 2025"
-        GPA: "4.23 out of 5.0"
+        GPA: "4.18 out of 5.0"
         content: |-
           Overseas Programmes
           - Student Exchange Programme - The University of Hong Kong [Upcoming]
