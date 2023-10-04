@@ -144,7 +144,7 @@ params:
     button:
       enable: true
       name: "Résumé"
-      url: "/files/Resume_Joel_Lo_CAA27092023.pdf"
+      url: "/files/Resume_Joel_Lo_CAA05102023.pdf"
       download: true
       newPage: false
     socialLinks:
