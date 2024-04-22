@@ -23,9 +23,6 @@ taxonomies:
 
 enableEmoji: true
 
-social:
-  twitter: mymy131311
-
 markup:
   goldmark:
     renderer:
@@ -69,7 +66,7 @@ Menus:
 
 params:
   title: "Joel's Website"
-  description: "Join me on a captivating journey of Industrial & Systems Engineering, Data Analytics, and Computer Science. Explore my blog, photos, and academic records. Seeking a summer (2024) internship. Currently in Hanoi as part of NOC."
+  description: "Join me on a captivating journey of Industrial & Systems Engineering, Data Analytics, and Computer Science. Explore my blog, photos, and academic records. Currently in Hong Kong as Part of Student Exchange."
   images:
   - /images/JoelBoat.jpg
   staticPath: ""  # The path to serve the static files from
@@ -136,7 +133,7 @@ params:
     intro: "Hello, my name is"
     title: "Joel."
     subtitle: "Be the Change."
-    content: "[A passionate ISE student.](https://www.linkedin.com/in/joello/) I build financial models, do data analytics, solve leetcodes and compete in CTFs and hackathons. Optimisation is another strong suite of mine."
+    content: "[A passionate ISE student.](https://www.linkedin.com/in/joello/) I build financial models, do data analytics, solve leetcodes and compete in CTFs and hackathons. Optimisation is another strong suite of mine. I am actively looking for a trading internship in commodities or equities."
     image: /images/JoelTrain.jpg
     bottomImage:
       enable: true
@@ -144,7 +141,7 @@ params:
     button:
       enable: true
       name: "Résumé"
-      url: "/files/Resume_Joel_Lo_CAA05102023.pdf"
+      url: "/files/Resume_Joel_Lo_CAA18042024.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -185,6 +182,16 @@ params:
     enable: true
     title: Experience
     items:
+      - job: "Quantitative Research Consultant"
+        company: "WorldQuant"
+        companyUrl: "https://www.worldquant.com/"
+        date: "Sep 2023 - present"
+        featuredLink:
+          enable: true
+          name: "Connect with me"
+          url: "https://www.linkedin.com/in/joello/"
+        content: "I am currently working part-time as a quant research consultant at [WorldQuant](https://www.worldquant.com/) in Singapore, Singapore. I am currently working on quantiative research and I am currently exploring alphas in China."
+
       - job: "Summer Analyst"
         company: "Viettonkin Consulting"
         companyUrl: "https://www.viettonkinconsulting.com/"
@@ -194,16 +201,6 @@ params:
           name: "Connect with me"
           url: "https://www.linkedin.com/in/joello/"
         content: "I worked as a summer analyst at [Viettonkin Consulting](https://www.viettonkinconsulting.com/) in Hanoi, Vietnam. I am currently working on FDI-focused Incorporation Projects in ASEAN. JD includes business development and digital transformation."
-
-      - job: "Quantitative Research Consultant"
-        company: "WorldQuant"
-        companyUrl: "https://www.worldquant.com/"
-        date: "April 2023 - present"
-        featuredLink:
-          enable: true
-          name: "Connect with me"
-          url: "https://www.linkedin.com/in/joello/"
-        content: "I am currently working part-time as a quant research consultant at [WorldQuant](https://www.worldquant.com/) in Singapore, Singapore. I am currently working on quantiative research and I am currently exploring alphas in China."
 
       - job: "Student Research Assistant"
         company: "NUS"
@@ -226,7 +223,7 @@ params:
           name: "National University of Singapore"
           url: "https://www.nus.edu.sg/"
         date: "2021 - 2025"
-        GPA: "4.18 out of 5.0"
+        GPA: "4.1 out of 5.0"
         content: |-
           Overseas Programmes
           - Student Exchange Programme - The University of Hong Kong [Upcoming]
@@ -245,8 +242,8 @@ params:
             - Invited speaker for CDE Open House 2022
         featuredLink:
           enable: true
-          name: "My Transcript"
-          url: "/files/N_SR_TSRPT.pdf"
+          name: "My Profile"
+          url: https://www.linkedin.com/in/joello/
       # - title: "GCE A Levels"
       #   school:
       #     name: "Tampines Junior College"
@@ -300,34 +297,34 @@ params:
         #   - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/
+            url: https://github.com/aerodromic
 
       - title: Vaccination Queue System
         content: An excel tool coded with VBA to model and predict optimal allocation for village heads.
         image: /images/projects/profile2.jpg
         featured:
           name: Demo
-          link: https://github.com/
+          link: https://github.com/aerodromic
         # badges:
         #   - "Django"
         #   - "Bootstrap"
         links:
           - icon: fab fa-github
-            url: https://github.com/
+            url: https://github.com/aerodromic
 
       - title: USB Rubber Ducky
         content: Uses a rpi pico to send payload as a hid. Payload can be as harmless as a rick roll or as nefarious as keystoke logger.
         image: /images/projects/profile3.jpg
         featured:
           name: Demo
-          link: https://github.com/
+          link: https://github.com/aerodromic
         # badges:
         #   - "Hugo"
         #   - "Bootstrap"
         #   - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/
+            url: https://github.com/aerodromic
 
   #Contact
   contact:
