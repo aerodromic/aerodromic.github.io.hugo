@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
 
 <head>
   {{- partial "head.html" . -}}
   {{- block "head" . }} {{- end }}
+  <link rel="stylesheet" href="{{ "css/refresh.css" | relURL }}">
   <title>
     {{- block "title" . }} {{- end }}
   </title>
@@ -14,9 +15,10 @@
   <!-- <script src="/js/jquery-3.6.0.min.js"></script> -->
 
   {{- partial "sections/header.html" . -}}
-  <div id="content">
+  <a class="skip-link" href="#content">Skip to content</a>
+  <main id="content" tabindex="-1">
     {{- block "main" . }}{{- end }}
-  </div>
+  </main>
   {{- partial "sections/footer/index.html" . -}}
 
   {{- if (or (eq .Site.Params.UseBootstrapCDN true) (eq .Site.Params.UseBootstrapCDN "js")) -}}
