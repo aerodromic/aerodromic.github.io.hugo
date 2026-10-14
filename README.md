@@ -1,7 +1,7 @@
 # Joel Lo — personal website
 
 Hugo source for [joelloliangze.com](https://joelloliangze.com/).
-Generated files are published to [`aerodromic/aerodromic.github.io`](https://github.com/aerodromic/aerodromic.github.io).
+Generated files are published to the `gh-pages` branch of this repository.
 
 ## Local preview
 
@@ -26,7 +26,7 @@ The homepage links to selected projects instead of the archived 2024 résumé. A
 
 ## Publishing
 
-Pull requests run the Hugo build. Only a push to `main` publishes `public/` to the serving repository using the existing deploy key. The workflow preserves the custom domain `joelloliangze.com`; `baseURL` must match it.
+Pull requests run the Hugo build. Only a push to `main` publishes `public/` to the `gh-pages` branch using `GITHUB_TOKEN`. The workflow preserves the custom domain `joelloliangze.com`; `baseURL` must match it.
 
 ## Profile content
 
