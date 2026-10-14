@@ -28,8 +28,8 @@ The homepage links to selected projects instead of the archived 2024 résumé. A
 
 Pull requests run the Hugo build. Only a push to `main` publishes `public/` to the serving repository using the existing deploy key. The workflow preserves the custom domain `joelloliangze.com`; `baseURL` must match it.
 
-## Content review
+## Profile content
 
-The refresh includes the confirmed current role: Analyst in Private Banking Credit Operations at JPMorgan. The date is shown as “Current” until the start month and year are confirmed. Confirm WorldQuant status and the preferred public contact email; the existing NUS address is retained. No new résumé is supplied.
+Career dates and education were checked against Joel’s LinkedIn profile export supplied on 14 October 2026. The current JPMorgan Credit Middle Office role began in October 2026, following an Asia Rates traineeship from March to September 2026. WorldQuant ended in March 2024. The public contact email matches the profile. The archived résumé remains unlinked; the profile export itself is not published.
 
 Built with [Hugo Profile](https://github.com/gurusabarish/hugo-profile/).

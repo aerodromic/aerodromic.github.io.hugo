@@ -133,7 +133,7 @@ params:
     intro: "FINANCE · ANALYTICS · SINGAPORE"
     title: "Joel Lo."
     subtitle: "Curiosity, backed by analysis."
-    content: "I’m an Analyst in Private Banking Credit Operations at JPMorgan in Singapore. My background spans derivatives market analysis, quantitative research and machine learning, with an interest in turning complex data into useful decisions."
+    content: "I’m an Analyst at JPMorgan Private Bank, supporting the Credit Middle Office in Singapore. My background spans derivatives market analysis, quantitative research and machine learning, with an interest in turning complex data into useful decisions."
     image: /images/JoelTrain.jpg
     bottomImage:
       enable: false
@@ -159,15 +159,16 @@ params:
     title: "About Me"
     image: "/images/JoelCam.jpg"
     content: |-
-      I’m Joel, based in Singapore, with a background in Industrial & Systems Engineering at the National University of Singapore, Data Analytics and Computer Science.
+      I’m Joel, based in Singapore. I graduated from the National University of Singapore in Industrial & Systems Engineering, with a second major in Data Analytics and a minor in Computer Science.
 
-      My work has taken me from dairy derivatives and systematic signals to demand forecasting and computer vision. I enjoy connecting technical models with the people and decisions they support.
+      My experience spans private banking credit operations, Asia rates trade support, dairy derivatives and quantitative research. I’m interested in how quantitative thinking, systems and artificial intelligence come together in financial markets.
 
-      Outside work, I’m usually exploring somewhere new, taking photos or experimenting with a homebrewing project.
+      Outside work, I mentor juniors at NUS, make mead and scuba dive. I also enjoy photography and exploring somewhere new.
     skills:
       enable: true
       title: "Tools I use to investigate, model and communicate:"
       items:
+        - "Alteryx"
         - "Python"
         - "SQL"
         - "Tableau"
@@ -180,15 +181,30 @@ params:
     enable: true
     title: Selected Experience
     items:
-      - job: "Analyst — Private Banking Credit Operations"
+      - job: "Analyst — Private Banking Credit Middle Office"
+        tabLabel: "JPMorgan · Credit"
         company: "JPMorgan"
         companyUrl: "https://www.jpmorgan.com/"
-        date: "Current"
+        date: "Oct 2026 - present"
         featuredLink:
           enable: true
           name: "LinkedIn profile"
           url: "https://www.linkedin.com/in/joello/"
-        content: "Working in Private Banking Credit Operations at JPMorgan in Singapore."
+        content: "Supporting the APAC Private Banking Credit Middle Office within Asset & Wealth Management at JPMorgan in Singapore."
+
+      - job: "Market Operations Analyst Trainee"
+        company: "JPMorgan"
+        tabLabel: "JPMorgan · Rates"
+        companyUrl: "https://www.jpmorgan.com/"
+        date: "Mar 2026 - Sep 2026"
+        content: "Supported Asia Rates Middle Office within Commercial & Investment Banking at JPMorgan in Singapore, gaining experience in rates trade support."
+
+      - job: "Teaching Assistant"
+        company: "NUS"
+        tabLabel: "NUS · Teaching"
+        companyUrl: "https://www.nus.edu.sg/"
+        date: "Aug 2024 - Apr 2025"
+        content: "Led IE2141 labs and tutorials and IE1111R tutorials. Previously taught IE1111R from August to November 2023, introducing a class of 35 students to mathematical modelling, data analytics and simulation."
 
       - job: "Derivatives Analyst Intern"
         company: "Interfood"
@@ -203,12 +219,12 @@ params:
       - job: "Quantitative Research Consultant"
         company: "WorldQuant"
         companyUrl: "https://www.worldquant.com/"
-        date: "Joined Sep 2023"
+        date: "Sep 2023 - Mar 2024"
         featuredLink:
           enable: true
           name: "Connect with me"
           url: "https://www.linkedin.com/in/joello/"
-        content: "Researched and backtested systematic equity signals across US and China datasets, exploring price, volatility and fundamental features with sector-neutral portfolio construction."
+        content: "Developed over 14 quantitative trading algorithms on the WorldQuant BRAIN platform using Fast Expression. Built sector-neutral signals using RSI, volatility and price-volume data."
       
       - job: "Summer Analyst"
         company: "Viettonkin Consulting"
@@ -240,16 +256,19 @@ params:
         school: 
           name: "National University of Singapore"
           url: "https://www.nus.edu.sg/"
-        date: "2021 - 2025"
+        date: "Aug 2021 - Jun 2025"
         content: |-
+          Second major in Data Analytics; minor in Computer Science.
+
           Overseas Programmes
-          - Student Exchange Programme - The University of Hong Kong
+          - Student Exchange Programme - The University of Hong Kong (Jan - Jun 2024)
+          - Hanyang Winter School - Hanyang University (Dec 2023 - Jan 2024)
           - NUS Overseas College Vietnam - Hanoi Pioneer Batch
           - Centre for Future Ready Graduates Industrial Insights - Thailand
           - Temasek Foundation - NUS Leadership Enrichment and Regional Networking Programme - Mahidol University, Thailand
 
           Notable Accomplishments
-          - Teaching Assistant - IE1111R
+          - Teaching Assistant - IE2141 and IE1111R
           - Undergraduate Research Opportunity Programme (UROP)
           - Independent Software Development Project (Orbital 22 - Apollo 11)
           - Student Assistant for Online Teaching Tool
